@@ -1,0 +1,36 @@
+{
+  "name": "jturpin-homebridge-jeedom",
+  "version": "1.0.0",
+  "description": "Fork of Jeedom plugin for Homebridge",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jturpin82/homebridge-jeedom.git"
+  },
+  "keywords": [
+    "homebridge",
+    "homebridge-plugin",
+    "homekit",
+    "jeedom"
+  ],
+  "author": "Jonathan Turpin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jturpin82/homebridge-jeedom/issues"
+  },
+  "homepage": "https://github.com/jturpin82/homebridge-jeedom#readme",
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.3.0"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "dependencies": {
+    "package": "^1.0.1"
+  },
+  "devDependencies": {}
+}
