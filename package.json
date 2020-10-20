@@ -1,11 +1,11 @@
 {
-  "name": "jturpin-homebridge-jeedom",
-  "version": "1.0.0",
+  "name": "homebridge-jeedom-jturpin",
+  "version": "0.1.2",
   "description": "Fork of Jeedom plugin for Homebridge",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jturpin82/homebridge-jeedom.git"
+    "url": "git+https://github.com/jturpin82/homebridge-jeedom-jturpin.git"
   },
   "keywords": [
     "homebridge",
@@ -16,9 +16,9 @@
   "author": "Jonathan Turpin",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jturpin82/homebridge-jeedom/issues"
+    "url": "https://github.com/jturpin82/homebridge-jeedom-jturpin/issues"
   },
-  "homepage": "https://github.com/jturpin82/homebridge-jeedom#readme",
+  "homepage": "https://github.com/jturpin82/homebridge-jeedom-jturpin#readme",
   "engines": {
     "node": ">=0.12.0",
     "homebridge": ">=0.3.0"
